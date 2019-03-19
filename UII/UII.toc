@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Unfrid's ItemIDs
+## Version: 1.0
+## Notes: Adds ItemIDs to Tooltips
+## Author: Unfrid
+UnfridsItemIds.lua
